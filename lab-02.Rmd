@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Sixing Zha, Moyin Eyiowuawi, Edward076 and Ruijia Liu"
+author: "Team Name: Sixing Zha, Moyin Eyiowuawi, Yuxiang Wu and Ruijia Liu"
 date: "`r Sys.Date()`"
 output: html_document
 ---

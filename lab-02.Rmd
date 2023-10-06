@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Sixing Zha, User2, Edward076 and Ruijia Liu"
+author: "Team Name: Sixing Zha, Moyin Eyiowuawi, Edward076 and Ruijia Liu"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -23,7 +23,7 @@ library(readxl)
 
 # Member 2 write code to load File 2 data here:
 
-1+1
+
 
 # Member 3 write code to load File 3 data here:
 
